@@ -1,0 +1,2 @@
+arm_controller
+-DCATKIN_DEVEL_PREFIX=/home/muci/projects/urdf_trajectory/devel -DCMAKE_INSTALL_PREFIX=/home/muci/projects/urdf_trajectory/install -G Unix Makefiles
